@@ -105,6 +105,8 @@ public class Main {
 
         System.out.println("Lista despues de eliminar datos fuera de [" + minimo + ", " + maximo + "]:");
         lista.mostrar();
+
+        scanner.close();
     }
 }
 

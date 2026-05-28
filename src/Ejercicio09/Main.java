@@ -93,6 +93,8 @@ public class Main {
         }
 
         soldados.resolverJose(n);
+
+        scanner.close();
     }
 }
 

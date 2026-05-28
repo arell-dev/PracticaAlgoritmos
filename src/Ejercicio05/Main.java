@@ -79,6 +79,8 @@ public class Main {
         } else {
             System.out.println("El dato " + buscado + " aparece " + veces + " vez/veces.");
         }
+
+        scanner.close();
     }
 }
 
